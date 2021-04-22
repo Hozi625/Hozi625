@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hozi625
-- 👨‍🎓 I am a current 4th-year student in University of Toronto Scarborough Campus as a Eco&Stats student
-- 👀 I’m interested in Data Analysis, Deep learning and Machine Learning, though I just get started.
-- 🌱 I’m currently learning basic Java, Pandas & Matplotlib & Tableau
+- 👨‍🎓 I am a current 4th-year student in University of Toronto Scarborough Campus as a Eco&Stats student, but currently taking gap-year and seeking for internship!
+- 👀 Though I major in Data-related stuff, I am actually more interested in Web Dev and I just got started in it.
+- 🌱 I’m currently learning HTML&CSS, JS and React.
 - 📫 How to reach me: chanchingho0625@gmail.com or chanchingho0625@163.com
 
 <!---
